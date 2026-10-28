@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shettynuthan9-hash/Leetcodesolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/shettynuthan9-hash/Leetcodesolutions/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shettynuthan9-hash/Leetcodesolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3046-split-the-array](https://github.com/shettynuthan9-hash/Leetcodesolutions/tree/master/3046-split-the-array) |
 ## Math
 |  |
 | ------- |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shettynuthan9-hash/Leetcodesolutions/tree/master/0410-split-array-largest-sum) |
+## Hash Table
+|  |
+| ------- |
+| [3046-split-the-array](https://github.com/shettynuthan9-hash/Leetcodesolutions/tree/master/3046-split-the-array) |
+## Counting
+|  |
+| ------- |
+| [3046-split-the-array](https://github.com/shettynuthan9-hash/Leetcodesolutions/tree/master/3046-split-the-array) |
 <!---LeetCode Topics End-->
